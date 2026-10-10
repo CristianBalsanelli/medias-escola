@@ -1,4 +1,4 @@
-
+#foi
 # Autor: Cristian Balsanelli
 # Sistema de cálculo de médias - Escola Alpha
 
