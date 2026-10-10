@@ -89,3 +89,5 @@ python sistema_medias.py
 Projeto educacional desenvolvido para praticar lógica de programação, funções, validação de dados e estruturas de decisão em Python.
 
 ⭐ Se gostou do projeto, deixe uma estrela no repositório!
+
+![Sistema de Cálculo de Médias](sistema-medias.png)
