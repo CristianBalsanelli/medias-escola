@@ -1,6 +1,7 @@
+
 # 🎓 Sistema de Cálculo de Médias — Escola Alpha
 
-![Sistema de Cálculo de Médias](sistema-medias.png)
+<img width="1024" height="1536" alt="sistema-medias png" src="https://github.com/user-attachments/assets/ecc90c71-2d90-4d65-9e8a-43b683c0caea" />
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-success)
