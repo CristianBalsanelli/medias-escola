@@ -1,5 +1,7 @@
 # 🎓 Sistema de Cálculo de Médias — Escola Alpha
 
+![Sistema de Cálculo de Médias](sistema-medias.png)
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-success)
 ![Autor](https://img.shields.io/badge/Autor-Cristian%20Balsanelli-orange)
@@ -90,4 +92,4 @@ Projeto educacional desenvolvido para praticar lógica de programação, funçõ
 
 ⭐ Se gostou do projeto, deixe uma estrela no repositório!
 
-![Sistema de Cálculo de Médias](sistema-medias.png)
+
